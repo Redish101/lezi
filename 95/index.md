@@ -16,4 +16,4 @@
 
 ![](./imgs/8.png)
 
-![](./imgs/9.png)
+![](./imgs/9.jpg)
