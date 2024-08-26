@@ -10,6 +10,10 @@ export default defineConfig({
       {
         text: '简介',
         link: "/"
+      },
+      {
+        text: '九五至尊',
+        link: '/95'
       }
     ],
     socialLinks: [
