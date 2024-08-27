@@ -61,7 +61,7 @@ function initJs() {
   }
 }
 
-function onRoute(to) {
+function onRoute(to: string) {
   if (to) setTimeout(initTwikoo, 1000);
 }
 
