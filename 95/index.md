@@ -1,25 +1,35 @@
 # 九五至尊
 
-![买什么都是顶配](./imgs/1.jpg)
+![](./imgs/1.avif)
 
-![](./imgs/2.png)
+![](./imgs/2.avif)
 
-![我什么都天下第一](./imgs/3.png)
+![](./imgs/3.avif)
 
-![上学想去就去](./imgs/4.png)
+![](./imgs/4.avif)
 
-![天下第一](./imgs/5.png)
+![](./imgs/5.avif)
 
-![自相矛盾](./imgs/6.png)
+![](./imgs/6.avif)
 
-![狗眼看人低](./imgs//7.png)
+![](./imgs//7.avif)
 
-![](./imgs/8.png)
+![](./imgs/8.avif)
 
-![](./imgs/9.jpg)
+![](./imgs/9.avif)
 
-![推特账号](./imgs/10.jpg)
+![](./imgs/10.avif)
 
-![](./imgs/11.jpg)
+![](./imgs/11.avif)
 
-![我的优势](./imgs/12.jpg)
+![](./imgs/12.avif)
+
+![](./imgs/13.avif)
+
+![](./imgs/14.avif)
+
+![](./imgs/15.avif)
+
+![](./imgs/16.avif)
+
+![](./imgs/17.avif)
